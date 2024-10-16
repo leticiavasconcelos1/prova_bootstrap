@@ -1,0 +1,37 @@
+.menu{
+    background-color: #bc4749;
+}
+.carrossel{
+    width: 75%;
+    margin-left: 10%;
+    margin-right:10%;  
+    margin-bottom: 10%;
+}
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.img1{
+    width: 60%;
+    margin-bottom:8%;
+}
+
+
+.galeria{
+    width: 80%;
+
+}
+.row{
+    margin-bottom: 8%;
+}
+
+.progress{
+    margin-bottom: 2%;
+}
+
+footer{
+    background-color: #bc4749;
+    text-align: center;
+    padding: 5%;
+}
